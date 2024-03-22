@@ -74,9 +74,7 @@ with it like you see in a _function declaration_.
 
 However, when we assign an anonymous function to a variable, we have a name that
 points to a callable thing. We can call this anonymous function by invoking
-`foo()`. That anonymous function is now, for all practical purposes, named
-`foo`.
-
+`foo()`. That anonymous function is now, for all practical purposes, name
 There are a few subtle differences between _function declarations_ and _function
 expressions_, but they are very minute. Neither is really better than the other.
 Over time, conventions have evolved in the JavaScript programming community for
